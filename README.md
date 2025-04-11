@@ -12,3 +12,4 @@ This repository contains sample code snippets for using LLM.
 
 # List of sample codes
 1. [1_hello_world](./example/1_hello_world.ipynb)
+2. [2_basic_calculator](./example/2_basic_calculator.ipynb)
