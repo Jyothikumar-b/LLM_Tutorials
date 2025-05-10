@@ -13,6 +13,8 @@ This repository contains sample code snippets for using LLM.
 # List of sample codes
 1. [1_hello_world](./example/1_hello_world.ipynb)
 2. [2_basic_calculator](./example/2_basic_calculator.ipynb)
-3. [5_SimpleWebPageReader](./example/5_SimpleWebPageReader.ipynb)
-4. [6_LocalWebPageReader](./example/6_LocalWebPageReader.ipynb)
-5. [7_LocalWebPageReader_Retriever](./example/7_LocalWebPageReader_Retrievar.py)
+3. RAG example with documents present in web page (series)
+   1. [5_SimpleWebPageReader](./example/5_SimpleWebPageReader.ipynb)
+   2. [6_LocalWebPageReader](./example/6_LocalWebPageReader.ipynb)
+   3. [7_LocalWebPageReader_Retriever](./example/7_LocalWebPageReader_Retrievar.py)
+   4. [8_LocalWebPageReader_Streamlit](./example/8_LocalWebPageReader_Streanlit.py)
