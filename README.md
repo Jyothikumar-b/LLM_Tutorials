@@ -21,3 +21,4 @@ This repository contains sample code snippets for using LLM.
    4. [8_LocalWebPageReader_Streamlit](./example/8_LocalWebPageReader_Streanlit.py)
    
    Note : Please extract [llamaindex-docs.zip](./data/llamaindex-docs.zip) before running LocalWebPageReader code
+5. [12_EmailTranslator](./example/12_EmailTranslator.ipynb)
